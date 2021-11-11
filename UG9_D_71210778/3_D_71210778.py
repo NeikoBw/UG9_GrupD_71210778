@@ -1,0 +1,6 @@
+u = input("Masukkan daftar belanja 1 :")
+k = input("Tambah data ke daftar belanja 1:")
+d = input("Masukkan daftar belanja 2 :")
+w = input("Tambah data ke daftar belanja 2 :")
+print("Daftar belanja 1 adalah" ,u, "," ,d )
+print("Daftar belanja 2 adalah" ,w, "," ,k)
